@@ -1,1 +1,1 @@
-# payplux
+# Stillapay
